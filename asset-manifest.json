@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-github-page/static/css/main.3e740818.chunk.css",
+    "main.js": "/react-github-page/static/js/main.a9e4b459.chunk.js",
+    "main.js.map": "/react-github-page/static/js/main.a9e4b459.chunk.js.map",
+    "runtime~main.js": "/react-github-page/static/js/runtime~main.4e6ed29c.js",
+    "runtime~main.js.map": "/react-github-page/static/js/runtime~main.4e6ed29c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-github-page/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-github-page/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-github-page/index.html",
+    "precache-manifest.d1742b5979325d7f94c50645ed3b1d1d.js": "/react-github-page/precache-manifest.d1742b5979325d7f94c50645ed3b1d1d.js",
+    "service-worker.js": "/react-github-page/service-worker.js",
+    "static/css/main.3e740818.chunk.css.map": "/react-github-page/static/css/main.3e740818.chunk.css.map",
+    "static/media/logo.svg": "/react-github-page/static/media/logo.5d5d9eef.svg"
+  }
+}
